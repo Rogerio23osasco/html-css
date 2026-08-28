@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: rgb(226, 220, 220);
+            margin: 0px;
+        }
+        header{
+            background-color:white;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        nav{
+            background-color: rgb(90, 89, 89);
+            padding: 3px;
+            box-shadow: 3px 2px 5px 1px rgba(0, 0, 0, 0.425);
+        }
+
+        nav > a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+
+        nav > a:hover{
+            text-decoration: underline;
+            
+        }
+
+        main{
+            background-color: aliceblue;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 15px 0px;
+            box-shadow: 4px 4px 9px rgba(0, 0, 0, 0.363);
+        }
+
+        article{
+            background-color: lightgray;
+        }
+
+        article > aside{
+            background-color: rgb(139, 131, 131);
+        }
+
+        footer{
+            background-color:black;
+            color:white;
+            text-align: center;
+            padding: 4px;
+            margin:0px;
+        }
+
+        footer > p {
+            margin:0px;
+        }
+        div#bola{
+            height: 100px;
+            width: 100px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav> 
+             <a href="#">link</a>
+             <a href="#">link</a>
+             <a href="#">link</a>
+             <a href="#">link</a>
+             <a href="#">link</a>
+        </nav>    
+    </header>
+    <main>
+        <section id="Assunto">
+            <p> Esporte Politica Tecnologia</p>
+        </section>
+        <section id="Noticias">
+            <article>
+                <h2>Notícia 1</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quod ex at, officiis rerum aliquid delectus eligendi quos modi quis soluta! Aliquam accusantium inventore nobis accusamus id veniam repudiandae atque.</p>
+                <aside>
+                    <p>Artigo escrito por fulano (exemplo)</p>
+                </aside>
+            </article>
+            <article>
+                
+            </article>
+        </section>      
+    </main>
+    <footer>
+       <p>Desenvolvido por Luiz Rogerio R. silva</p>
+    </footer>
+
+    <div id="bola"></div>
+</body>
+</html>
