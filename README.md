@@ -18,12 +18,3 @@ estou aprendendo a criar sites e agora vou gerenciar meus reposiórios!
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex012/index.html">executar exercício 012</a>
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex013/index.html">executar exercício 013</a>
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex014/index.html">executar exercício 014</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex015/index.html">executar exercício 015</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex016/index.html">executar exercício 016</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex017/index.html">executar exercício 017</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex018/index.html">executar exercício 018</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex019/index.html">executar exercício 019</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex020/index.html">executar exercício 020</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex021/index.html">executar exercício 021</a>
-
-
