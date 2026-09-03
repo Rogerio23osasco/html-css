@@ -1,7 +1,7 @@
 # html-css
 Curso de HTML5 e CSS3
 
-estou aprendendo a criar sites e agora vou gerenciar meus reposiórios!
+Estou Aprendendo a criar Sites e agora vou Gerenciar meus Reposiórios!
 
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex001/index.html">executar exercício 001</a>
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex002/index.html">executar exercício 002</a>
