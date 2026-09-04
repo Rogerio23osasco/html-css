@@ -3,19 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documents</title>
+    <title>Fundo Fixo de Tela</title>
     <style>
         body {
             height: 97vh;
-            background-color: black;
+            /*background-color: black;
             background-image: url('imagens/wallpaper002.jpg');
             background-repeat: no-repeat;
             background-position: left center;
             background-size: cover;
+            background-attachment: fixed;*/
+
+            /* shorthand - background [ordens]
+            color > image > repeat > position > [tem que colocar a barra"/"] size > attachment, tudo sem virgula */
+
+            background: black url('imagens/wallpaper002.jpg') no-repeat left center /cover fixed;
         }
         main {
             background-color: white;
-            width: 400px;
+            max-width: 400px;
             padding: 20px;
             margin:auto;
             border: solid 1px darkgray;
