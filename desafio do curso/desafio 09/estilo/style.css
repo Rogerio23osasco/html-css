@@ -40,9 +40,10 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: yellowgreen;
+    color: violet;
 }
 
 footer a:hover {
     text-decoration: underline;
+    color: cadetblue;
 }
