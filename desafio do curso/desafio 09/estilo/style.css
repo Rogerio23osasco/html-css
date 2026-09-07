@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family:'campus';
+    src: url(../fontes/CAMPUS\ PERSONAL\ USE.ttf) format(truetype);
+    font-weight: normal;
+}
+
+body {
+    background-color: rgb(149, 71, 223);
+    margin: 0px;
+}
+
+h1 {
+    background-color: black;
+    font-family:'campus', 'cursive';
+    font-size: 3em;
+    padding: 4%;
+    color: white;
+    margin: 0px;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgba(103, 2, 219, 0.473);
+}
+
+.meio {
+   text-align: center;
+}
+
+.meio img {
+    padding: 2.5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 2.5px;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
