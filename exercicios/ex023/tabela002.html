@@ -6,6 +6,7 @@
     <title>Tabelas</title>
     <style>
         body {
+            background-color: rgb(180, 247, 224);
             font-family: Arial, Helvetica, sans-serif;
         }
 
@@ -30,10 +31,28 @@
             background-color:rgb(39, 39, 39);
             color: white;
         }
+
+        tbody > tr:nth-child(2n) { /* even*/
+            background-color: lightgray;
+        }
+
+        tbody > tr:nth-child(odd) { /* n2-1*/
+            background-color: lightblue;
+        }
+
         .num {
             text-align: right;
         }
 
+        tfoot a {
+            color: white;
+            text-decoration: none;
+        }
+
+         tfoot a:hover {
+            color: chartreuse;
+            text-decoration: underline;
+        }
 
     </style>
 </head>
@@ -168,17 +187,17 @@
                 <td>Roraima</td>
                 <td class="num">761.012</td>
             </tr>
-            <tr>
-                <td><a href="https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o" target="_blank">fonte de pesquisa</a></td>
-                <td>Wikipedia</td>
-            </tr>
+            
         </tbody>   
         <tfoot>
             <tr>
                 
                 <th scope="row">Total de Habitantes</th>
                 <td class="num"><strong>214.211.951</strong></td>
-            
+            </tr>
+            <tr>
+                <th><a href="https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o" target="_blank">fonte de pesquisa</a></th>
+                <th>Wikipedia</th>
             </tr>
         </tfoot>
     </table>
