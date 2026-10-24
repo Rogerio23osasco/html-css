@@ -18,3 +18,4 @@ Estou Aprendendo a criar Sites e agora vou Gerenciar meus Reposiórios!
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex012/index.html">executar exercício 012</a>
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex013/index.html">executar exercício 013</a>
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex014/index.html">executar exercício 014</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex025/form003.html">exercute exercício 025</a>
