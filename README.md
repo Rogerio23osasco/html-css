@@ -4,28 +4,28 @@ Curso de HTML5 e CSS3
 Estou Aprendendo a criar Sites e agora vou Gerenciar meus Reposiórios!
 
 <a href="https://rogerio23osasco.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="external">executar exercício 001</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex002/index.html">executar exercício 002</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex003/index.html">executar exercício 003</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex004/index.html">executar exercício 004</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex005/index.html">executar exercício 005</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex006/index.html">executar exercício 006</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex007/index.html">executar exercício 007</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex008/index.html">executar exercício 008</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex008b/index.html">executar exercício 008b</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex009/index.html">executar exercício 009</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex010/index.html">executar exercício 010</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex011/index.html">executar exercício 011</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex012/index.html" >executar exercício 012</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex013/index.html">executar exercício 013</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex014/index.html">executar exercício 014</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex015/index.html">executar exercício 015</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex016/cor01.html">executar exercício 016</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex017/fonte01.html">executar exercício 017</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex018/font01.html">executar exercício 018</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex019/seletor01.html">executar exercicio 019</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex020/hover.html">executar exercício 020</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex021/caixa01.html">executar exercício 021</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex022/fundo001.html">exexutar exercício 022</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex023/tabela001.html">executar exercício 023</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex024/iframe001.html">executar exercício 024</a>
-<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex025/form003.html">exercute exercício 025</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="external">executar exercício 002</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex003/index.html" target="_blank" rel="external">executar exercício 003</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex004/index.html" target="_blank" rel="external">executar exercício 004</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex005/index.html" target="_blank" rel="external">executar exercício 005</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex006/index.html" target="_blank" rel="external">executar exercício 006</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex007/index.html" target="_blank" rel="external">executar exercício 007</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex008/index.html" target="_blank" rel="external">executar exercício 008</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex008b/index.html" target="_blank" rel="external">executar exercício 008b</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex009/index.html" target="_blank" rel="external">executar exercício 009</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex010/index.html" target="_blank" rel="external">executar exercício 010</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex011/index.html" target="_blank" rel="external">executar exercício 011</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex012/index.html" target="_blank" rel="external">executar exercício 012</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex013/index.html" target="_blank" rel="external">executar exercício 013</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex014/index.html" target="_blank" rel="external">executar exercício 014</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex015/index.html" target="_blank" rel="external">executar exercício 015</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex016/cor01.html" target="_blank" rel="external">executar exercício 016</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex017/fonte01.html" target="_blank" rel="external">executar exercício 017</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex018/font01.html" target="_blank" rel="external">executar exercício 018</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank" rel="external">executar exercicio 019</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex020/hover.html" target="_blank" rel="external">executar exercício 020</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="external">executar exercício 021</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank" rel="external">exexutar exercício 022</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex023/tabela001.html" target="_blank" rel="external">executar exercício 023</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex024/iframe001.html" target="_blank" rel="external">executar exercício 024</a>
+<a href="https://rogerio23osasco.github.io/html-css/exercicios/ex025/form003.html" target="_blank" rel="external">exercute exercício 025</a>
